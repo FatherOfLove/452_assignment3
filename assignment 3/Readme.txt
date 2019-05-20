@@ -1,4 +1,8 @@
 Partners:
+    Xianghui Huang, chinahuang@csu.fullerton.edu
+	Jason Hassell, Jhasselle@csu.fullerton.edu
+	Mike Kaminski, MikeyK@csu.fullerton.edu
+    
 Programming Language: Python 3
 How to execute:
     python signer.py <KEY FILE NAME> <SIGNATURE FILE NAME> <INPUT FILE NAME> <MODE> [ALGORITHM]
